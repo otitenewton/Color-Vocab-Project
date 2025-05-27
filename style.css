@@ -1,0 +1,25 @@
+/* *{background-color: aqua;} */
+.color-title{
+    font-weight: normal;
+}
+img{height: 200px ; width: 200px;}
+#red{color: red;}
+#green{color: green ;}
+#blue{color: blue ;}
+#yellow{color:yellow ;}
+#orange{color: orange;}
+#white{color: white; 
+    background-color: slategray;
+    
+}
+#black{color: black;}
+#pink{color: pink;}
+#brown{color: brown;}
+#gray{color: gray;}
+#silver{color: silver;}
+#golden{color: goldenrod;}
+#violet{color: #BF00FF;}
+#turquoise{color: turquoise;}
+#bronze{color: #CD7F32;}
+#purple{color: purple;}
+
